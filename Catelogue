@@ -1,0 +1,51 @@
+## 1.JavaWeb
+
+### 1.1 Java基础强化(6天)
+
+
+
+### 1.2 Web前端基础(3天)
+
+1. HTML 
+
+2. CSS
+
+3. JS 
+
+
+### 1.3 Java技术加强（2天）
+
+1. 多线程+网络编程	
+
+2. 反射+注释+xml
+
+### 1.4数据库技术（核心 ）
+
+1. MySQL （Day12）
+2. MySQL （Day13）
+3. JDBC（Day14）
+4. DBCP&DBUtils&事务（Day15）
+
+### 1.5Web核心技术
+
+1. http协议 + servlet + tomcat服务器（Day16）
+2. Servlet &request & response(day17)
+3. JPS&EL&JSTL(Day18)
+4. BootStrap(Day19)
+5. MVC 完整的登录注册案例(Day20)
+6. cookie 浏览器缓存技术 + session 服务器缓存技术(Day21)
+7. filter过滤器 + listener 监听器(day22)
+8. mybatis  (day23)
+9. mybatis  (day24)
+10. jQuery   (day25)
+11. ajax+json   ajax异步请求(前台与后台交互异步请求 )   json数据传输的格式.
+
+### 1.6 Web框架技术
+
+1. maven 项目管理工具
+2. spring框架 
+3. spring框架 
+4. spring框架 + springmvc框架
+5. springmvc框架
+6. 可视化项目  ( spring框架 + springmvc框架 + mybatis框架  报表 ; 埋点采集 )
+7. git 版本控制工具
